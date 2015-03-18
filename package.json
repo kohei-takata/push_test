@@ -1,0 +1,17 @@
+{
+  "name": "push",
+  "version": "1.0.0",
+  "description": "push",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "engines": {
+     "node": "0.10.x"
+  }
+}
