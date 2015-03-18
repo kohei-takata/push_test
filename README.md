@@ -1,3 +1,12 @@
+ブラウザを介したpush通知のサンプルプログラムです。
+
+以下のリポジトリを参考に作成しました。
+ライセンスは以下のリポジトリに準拠します。
+
+https://github.com/GoogleChrome/samples/tree/gh-pages/push-messaging-and-notifications
+
+---
+
 Push Messaging and Notification Sample
 ===
 
